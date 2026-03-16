@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+# Environment variables - NUNCA subir esto
+.env
+.env.local
+.env.*.local
+# Terraform state - contiene info sensible
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform/
+.terraform.lock.hcl
+# Jupyter
+.ipynb_checkpoints/
+# IDE
+.vscode/settings.json
+.idea/
+# OS
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+logs/
