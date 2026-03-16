@@ -7,11 +7,11 @@ dist/
 build/
 venv/
 .venv/
-# Environment variables - NUNCA subir esto
+# Environment variables - NEVER push this
 .env
 .env.local
 .env.*.local
-# Terraform state - contiene info sensible
+# Terraform state - contains sensitive info
 *.tfstate
 *.tfstate.backup
 *.tfvars
