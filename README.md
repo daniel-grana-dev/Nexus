@@ -13,5 +13,5 @@ Self-hosted AI inference platform with hybrid LLM routing, RAG pipeline, and pro
 - **Infrastructure**: Docker Compose → Kubernetes (K3s)
 
 ## Author
-Daniel Nicolas Graña Barcala — Hamburg, Germany
+Daniel Nicolas Graña Barcala - Hamburg, Germany
 https://github.com/daniel-grana-dev
