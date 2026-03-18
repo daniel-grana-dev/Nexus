@@ -2,7 +2,7 @@
 
 Self-hosted AI inference platform with hybrid LLM routing, RAG pipeline, and production monitoring.
 
-> Current status: Initial setup — Day 1 of the 12-month plan.
+> Current status: Initial setup - Day 2 of the 12-month plan.
 
 ## Stack
 - **Local LLM**: Ollama (Llama 3.2)
