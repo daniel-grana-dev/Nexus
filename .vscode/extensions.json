@@ -8,5 +8,6 @@
         "hashicorp.terraform",
         "ms-vscode-remote.remote-wsl",
         "github.copilot"
+        "ms-python.debugpy"
     ]
 }
