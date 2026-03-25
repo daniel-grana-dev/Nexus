@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "eamodio.gitlens",
+        "ms-azuretools.vscode-docker",
+        "redhat.vscode-yaml",
+        "hashicorp.terraform",
+        "ms-vscode-remote.remote-wsl",
+        "github.copilot"
+        "ms-python.debugpy"
+    ]
+}
